@@ -167,6 +167,11 @@ section{
     justify-content: center;
     gap: 5rem;
     height: 80vh;
+    
+}
+
+.picture{
+    border-radius: 100rem;
 }
 
 .section__pic-container{
